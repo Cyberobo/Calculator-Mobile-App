@@ -21,29 +21,11 @@ Technologies, libraries, and tools used in this project:
 
 ## 📸 Screenshots
 
-| Home Page | Feature Page | Detail Page |
-|-----------|-------------|-------------|
-| ![Home Page](images/home.png) | ![Feature](images/feature.png) | ![Detail](images/detail.png) |
+![Home Page](images/home.png)
 
 ## 🎥 Demo & Introduction Video
 
 [![Project Introduction](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-## 📦 Installation & Usage
-
-```sh
-# Clone the repository
-git clone https://github.com/username/project-name.git
-
-# Navigate into the directory
-cd project-name
-
-# Install dependencies
-yarn install # or npm install
-
-# Start the application
-yarn start # or npm start
-```
 
 ## 🤝 Contributing
 
