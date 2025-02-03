@@ -1,4 +1,4 @@
-# 📌 Project Name
+# 📌 Calculator Mobile App
 
 ![Project Banner](images/banner.png)
 
