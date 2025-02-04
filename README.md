@@ -4,7 +4,7 @@
 
 Technologies, libraries, and tools used in this project:
 
-- [🔹 Technology 1](#) – Description
+- [🔹 Library](#) – 
 
 ## 📸 Screenshots
 
