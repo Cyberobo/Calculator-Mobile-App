@@ -8,7 +8,7 @@ Technologies, libraries, and tools used in this project:
 
 ## 📸 Screenshots
 
-![Home Page](images/home.png)
+<img src="https://github.com/user-attachments/assets/83fd7fba-94c5-4ddd-9b67-807fc00bb4e4" width="300">
 
 ## 🎥 Demo & Introduction Video
 
