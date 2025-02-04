@@ -4,7 +4,7 @@
 
 Technologies, libraries, and tools used in this project:
 
-- [🔹](#) – 
+- [🔹MathParser.org-mXparser.jar](https://mathparser.org/mxparser-downloads/) 
 
 ## 📸 Screenshots
 
@@ -12,7 +12,7 @@ Technologies, libraries, and tools used in this project:
 
 ## 🎥 Demo & Introduction Video
 
-[![Project Introduction](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Project Introduction](https://www.youtube.com/watch?v=Vn_MH8Vcsxs)
 
 ## 🤝 Contributing
 
