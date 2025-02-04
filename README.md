@@ -14,10 +14,6 @@ Technologies, libraries, and tools used in this project:
 
 [🔹Project Introduction](https://www.youtube.com/watch?v=Vn_MH8Vcsxs)
 
-## 🤝 Contributing
-
-If you want to contribute to this project:
-
 ## 📄 License
 
 This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/Calculator-Mobile-App/blob/main/License.txt)
