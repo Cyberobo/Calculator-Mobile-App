@@ -20,7 +20,7 @@ If you want to contribute to this project:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/Calculator-Mobile-App/blob/main/License.txt)
 
 ---
 
