@@ -12,7 +12,7 @@ Technologies, libraries, and tools used in this project:
 
 ## 🎥 Demo & Introduction Video
 
-[![Project Introduction](https://www.youtube.com/watch?v=Vn_MH8Vcsxs)
+[🔹Project Introduction](https://www.youtube.com/watch?v=Vn_MH8Vcsxs)
 
 ## 🤝 Contributing
 
